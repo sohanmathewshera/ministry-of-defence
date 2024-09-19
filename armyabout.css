@@ -1,0 +1,29 @@
+
+
+.header-content {
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);  
+}
+ .image-container {
+    .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.image-info {
+    margin-bottom: 20px;
+}
+.image-info h2 {
+    margin-bottom: 5px;
+}
+
+.image-container {
+    display: flex !important;
+}
+
+.image-container img {
+    width: 710px;
+}
+.importantlink {
+    background-color: red;
+   
+}}
